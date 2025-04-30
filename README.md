@@ -1,55 +1,69 @@
-# 📘 Algorithm Study: Baekjoon
+# 🌱 Programmers Algorithm Study
 
-> 하루하루의 성장, 그리고 잊지 않기 위한 기록
+> **"기초를 잊지 않기 위해, 매일 한 걸음씩 성장합니다."**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Programmers%20Study&fontSize=40&animation=fadeIn" />
+</p>
 
-## ✨ Motivation
-
-알고리즘 문제를 푸는 것은 단순한 문제 해결을 넘어서  
-**기본에 충실하고**,  
-**놓치기 쉬운 개념들을 반복 학습하며**,  
-**매일 조금씩 성장하기 위한 과정**입니다.
-
-프로그래밍은 실력이 쌓일수록 기초를 간과하기 쉽지만,  
-저는 **기초를 다지고 싶고, 잊지 않기 위해**  
-꾸준히 알고리즘 문제를 풀고 있습니다.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Commit-Everyday-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Programmers-yellow?logo=codeforces" />
+</p>
 
 ---
 
-## 📌 목표
+## ✨ Why I Do This
 
-- 하루 1문제 이상 꾸준히 풀이 ✏️  
-- 다양한 알고리즘 유형 경험 및 복습 🔁  
-- 나만의 풀이 방식 정리 및 리팩토링 🛠️  
+알고리즘 문제 풀이를 단순한 스펙이 아닌  
+**개발자로서의 사고력을 키우는 훈련**으로 삼고 있습니다.
 
----
+- **기초에 충실하고 싶어서**
+- **잊지 않기 위해서**
+- **매일 성장하는 습관을 들이기 위해서**
 
-## 📂 폴더 구조 예시
-
----
-
-
-
-
+저는 문제 풀이를 통해 개발자로서의 기반을 다지고 있습니다.
 
 ---
 
-## 🧠 기록 방식
-
-- 각 문제는 주제별로 분류 📚  
-- 주요 개념 주석 정리 📝  
-- 풀면서 깨달은 점이나 다른 풀이 방식 비교 ✍️  
+## 🧩 Folder Structure
 
 ---
 
-## 🚀 나아가며
 
-작은 꾸준함은 큰 차이를 만듭니다.  
-오늘도 한 문제를 풀며 **개발자로서 한 걸음 더** 나아갑니다.  
-함께 성장하고 싶은 분은 언제든 환영합니다! 🙌
+
+
 
 ---
 
-> "기초가 탄탄한 개발자가 진짜 실력자다."  
-> – 나 자신에게 보내는 다짐
+## 💡 Study Log & 방식
+
+- ✅ **문제 유형별 분류 및 관리**
+- ✅ **문제마다 상세한 주석과 핵심 로직 정리**
+- ✅ **리팩토링 및 다른 사람 풀이와 비교**
+- ✅ **깃 커밋 메시지에 문제명과 요약 포함**
+
+---
+
+## 🧠 진행 방식
+
+| 날짜       | 문제명                 | 유형     | 링크                                                                 | 난이도 |
+|------------|------------------------|----------|----------------------------------------------------------------------|--------|
+| 2025-05-01 | 전화번호 목록           | 해시     | [🔗 문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 🟡 중 |
+| 2025-04-30 | K번째 수               | 정렬     | [🔗 문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | 🟢 하 |
+| ...        | ...                    | ...      | ...                                                                  | ...    |
+
+---
+
+## 🔥 My Commitment
+
+> 꾸준함은 가장 강력한 실력입니다.  
+> 오늘도 작은 실천을 기록하며,  
+> 더 나은 개발자가 되기 위한 **한 걸음**을 내딛습니다.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" />
+</p>
