@@ -27,32 +27,12 @@
 
 ---
 
-## 🧩 Folder Structure
-
----
-
-
-
-
-
----
-
 ## 💡 Study Log & 방식
 
 - ✅ **문제 유형별 분류 및 관리**
 - ✅ **문제마다 상세한 주석과 핵심 로직 정리**
 - ✅ **리팩토링 및 다른 사람 풀이와 비교**
 - ✅ **깃 커밋 메시지에 문제명과 요약 포함**
-
----
-
-## 🧠 진행 방식
-
-| 날짜       | 문제명                 | 유형     | 링크                                                                 | 난이도 |
-|------------|------------------------|----------|----------------------------------------------------------------------|--------|
-| 2025-05-01 | 전화번호 목록           | 해시     | [🔗 문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 🟡 중 |
-| 2025-04-30 | K번째 수               | 정렬     | [🔗 문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | 🟢 하 |
-| ...        | ...                    | ...      | ...                                                                  | ...    |
 
 ---
 
@@ -65,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunwoong-dev&show_icons=true&theme=radical" />
 </p>
