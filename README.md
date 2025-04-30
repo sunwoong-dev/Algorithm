@@ -3,11 +3,11 @@
 > **"기초를 잊지 않기 위해, 매일 한 걸음씩 성장합니다."**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Programmers%20Study&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=sunwoong's%20GitHub&fontSize=38&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java" />
   <img src="https://img.shields.io/badge/Commit-Everyday-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-Programmers-yellow?logo=codeforces" />
 </p>
