@@ -3,7 +3,7 @@
 > **"기초를 잊지 않기 위해, 매일 한 걸음씩 성장합니다."**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=sunwoong's%20GitHub&fontSize=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Where%20Basics%20Become%20Mastery&fontSize=38&animation=fadeIn" />
 </p>
 
 <p align="center">
